@@ -1,3 +1,3 @@
 # FullStack projekti
 
-## JavaScript
+## Viikko 1
