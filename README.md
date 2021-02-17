@@ -1,3 +1,3 @@
-# TAMA ON ETUSIVU
+# FullStack projekti
 
-## tassa on leipateksti
+## Viikko 1
